@@ -1,0 +1,23 @@
+.header {
+  height: 45px; }
+  .header .logo-container {
+    padding: 10px;
+    background-color: #2CA2F9;
+    overflow: hidden;
+    height: 25px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1050; }
+    .header .logo-container .home img {
+      height: 100%; }
+  .header .headnav {
+    margin-top: 45px; }
+  .header .query-icon {
+    float: right;
+    width: 42px;
+    color: #ffffff;
+    margin-top: 2px; }
+
+/*# sourceMappingURL=header.css.map */
